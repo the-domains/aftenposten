@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Aftenposten]]></title>
         <description><![CDATA[Aftenposten]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aftenposten/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 14:11:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 14:14:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aftenposten/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[- Uverdig å kreve at folk sykler til Russland]]></title>
+            <description><![CDATA[<article><h1>- Uverdig å kreve at folk sykler til Russland</h1><p>Politidirektoratet har bedt landets politidistrikter samle inn hittesykler slik at personer som skal returneres til Russland, kan sykle tilbake over grensen ved Storskog. Det meldte TV 2 tirsdag. Årsaken er at Russland har krevd at personer som returneres skal bruke samme transportmiddel som da de kom inn til Norge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/622b967c1d6dd34714c5610a37c7ab5285ff68ad.jpg"></article>]]></description>
+            <link>http://www.aftenposten.no/nyheter/iriks/--Uverdig-a-kreve-at-Afolk-sykler-til-Russland-8316213.html</link>
+            <guid isPermaLink="false">1017b55f-9fb7-4100-b6da-4cc040f9832d</guid>
+            <pubDate>Wed, 13 Jan 2016 14:14:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>TEst</p>]]></description>
-            <link>undefined0d98a035-fa23-4a80-a78d-55efc71c0b66/index.html</link>
+            <link>https://thegrid.ai/aftenposten/0d98a035-fa23-4a80-a78d-55efc71c0b66/index.html</link>
             <guid isPermaLink="false">0d98a035-fa23-4a80-a78d-55efc71c0b66</guid>
             <pubDate>Wed, 13 Jan 2016 14:10:54 GMT</pubDate>
         </item>

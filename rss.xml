@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Aftenposten The Grid Playground]]></title>
         <description><![CDATA[Aftenposten The Grid Playground]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aftenposten/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 14:27:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 14:28:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aftenposten/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EU starter Polen-gransking]]></title>
+            <description><![CDATA[<article><h1>EU starter Polen-gransking</h1><p>Målet er å få klarhet i saken på en objektiv måte og starte en dialog, sier EU-kommisjonens visepresident Frans Timmermans til pressen i Brussel. Utviklingen i Polen var tema på et møte i EU-kommisjonen onsdag, og Kommisjonens innledende gransking skal se på om endringen i forfatningsdomstolen bryter med rettsstatsprinsippene i EU.</p><img src="http://ap.mnocdn.no/incoming/article8310919.ece/ALTERNATES/w1440c169/ta86f54f_doc6nwnokc5go1k58e66k9-LETJP37uQ6.jpg?updated=080120161509"></article>]]></description>
+            <link>http://www.aftenposten.no/nyheter/uriks/EU-starter-Polen-gransking-8316325.html</link>
+            <guid isPermaLink="false">0abd5567-527c-4910-bc78-a8d4d664faec</guid>
+            <pubDate>Wed, 13 Jan 2016 14:27:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Polen er gått fra suksesshistorie til versting på to måneder]]></title>
             <description><![CDATA[<article><h1>Polen er gått fra suksesshistorie til versting på to måneder</h1><p>Ingen land i Europa har hatt en kraftigere økonomisk vekst enn Polen de siste ti årene. Landet mottar store overføringer fra EU og har svært lav innvandring. Likevel var det på en plattform av EU-kritikk, innvandringsskepsis og garantier om å bedre fattige polakkers økonomi at det sterkt nasjonalkonservative Lov og rettferdighetspartiet (Pis) vant valget i oktober.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0d7c73fd81bb4d5d49030d8f265e819e8192c50.jpg"></article>]]></description>

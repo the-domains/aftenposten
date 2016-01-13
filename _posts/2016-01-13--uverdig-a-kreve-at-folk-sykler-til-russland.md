@@ -19,8 +19,8 @@ app_links:
     package: no.cita
 isBasedOnUrl: 'http://www.aftenposten.no/nyheter/iriks/--Uverdig-a-kreve-at-Afolk-sykler-til-Russland-8316213.html'
 title: '- Uverdig å kreve at folk sykler til Russland'
-datePublished: '2016-01-13T14:14:41.962Z'
-dateModified: '2016-01-13T14:12:12.767Z'
+datePublished: '2016-01-13T14:35:31.284Z'
+dateModified: '2016-01-13T14:29:12.222Z'
 sourcePath: _posts/2016-01-13--uverdig-a-kreve-at-folk-sykler-til-russland.md
 published: true
 inFeed: true
